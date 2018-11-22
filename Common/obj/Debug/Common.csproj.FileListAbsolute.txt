@@ -1,0 +1,4 @@
+F:\MyWorkspace_xd\CSharp7\Common\bin\Debug\Common.dll
+F:\MyWorkspace_xd\CSharp7\Common\bin\Debug\Common.pdb
+F:\MyWorkspace_xd\CSharp7\Common\obj\Debug\Common.dll
+F:\MyWorkspace_xd\CSharp7\Common\obj\Debug\Common.pdb
