@@ -1,0 +1,11 @@
+F:\MyWorkspace_xd\CSharp7\Server\bin\Debug\Server.exe.config
+F:\MyWorkspace_xd\CSharp7\Server\bin\Debug\Server.exe
+F:\MyWorkspace_xd\CSharp7\Server\bin\Debug\Server.pdb
+F:\MyWorkspace_xd\CSharp7\Server\obj\Debug\Server.Properties.Resources.resources
+F:\MyWorkspace_xd\CSharp7\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\MyWorkspace_xd\CSharp7\Server\obj\Debug\Server.exe
+F:\MyWorkspace_xd\CSharp7\Server\obj\Debug\Server.pdb
+F:\MyWorkspace_xd\CSharp7\Server\obj\Debug\Server.FrmServer.resources
+F:\MyWorkspace_xd\CSharp7\Server\bin\Debug\Common.dll
+F:\MyWorkspace_xd\CSharp7\Server\bin\Debug\Common.pdb
+F:\MyWorkspace_xd\CSharp7\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
